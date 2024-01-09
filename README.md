@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/edwardinio18/Photo-Gallery
+   git clone https://github.com/edwardinio18/Photo-Gallery.git
 2. Upload the project files to your web server.
 3. Navigate to `index.php` in your web browser to launch the application.
 
